@@ -67,6 +67,8 @@
     <Compile Include="Assets\Cube3Script.cs" />
     <Compile Include="Assets\Cub2Script.cs" />
     <Compile Include="Assets\Cub1Script.cs" />
+    <Compile Include="Assets\SphereMovments.cs" />
+    <Compile Include="Assets\Enemies.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

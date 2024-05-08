@@ -355,6 +355,8 @@
 "Assets/Cub1Script.cs"
 "Assets/Cub2Script.cs"
 "Assets/Cube3Script.cs"
+"Assets/Enemies.cs"
+"Assets/SphereMovments.cs"
 -langversion:9.0
 
 /deterministic
